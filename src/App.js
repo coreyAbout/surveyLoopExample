@@ -69,7 +69,7 @@ class App extends Component {
     return (
       <div className="App container">
         <header>
-          <h1>What does it do?</h1>
+          <h1><a href="https://github.com/coreyAbout/surveyLoopExample">What does it do?(click to check the source code)</a></h1>
           <p>You specify a loop number in the box and click the button right beside it. 
             There will be two quesitons repeated according to that number after you clicked yes to the first quesiton.</p>
         </header>
